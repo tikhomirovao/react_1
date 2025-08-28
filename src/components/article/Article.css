@@ -5,3 +5,8 @@ article
     padding: 25px;
     margin: 0;
 }
+.card
+{
+    display: inline-block;
+    padding: 20px;
+}
